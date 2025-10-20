@@ -3,6 +3,10 @@
 Projeto interativo desenvolvido em **Arduino** que testa o tempo de reação do jogador usando **LEDs, buzzer e botões**.  
 O sistema é controlado por uma **lógica de estados** e utiliza **`millis()`** para medir o tempo com precisão, sem o uso de `delay()` — garantindo respostas imediatas e funcionamento fluido.
 
+## 🧠 Simulação no Tinkercad
+
+Você pode visualizar o circuito funcionando neste link:  
+👉 [Abrir projeto no Tinkercad](https://www.tinkercad.com/things/6Q60RMs4SJj/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=m9eEt35gdRKDnU15XUrHEOM4VYlVYqU15QRz42yo8h8)
 ---
 
 ## ⚙️ Objetivo
